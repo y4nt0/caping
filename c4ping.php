@@ -25,7 +25,7 @@ print $ijo."
 
 include(readline($turkis."masukan config : "));
 //echo"$turkis bot start $putih \n";
-print "NEW BOT CAPING...".$t.$kuning."[>] ".$putih."sedang login eaa...".$t;
+print "NEW BOT CAPING...".$t.$kuning."[>] ".$putih."sedang login!! mohon tunggu...".$t;
 sleep(2);
 
 // login
